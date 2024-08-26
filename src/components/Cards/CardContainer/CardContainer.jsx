@@ -1,5 +1,5 @@
-import PlayerCard from "./PlayerCard";
-import "./PlayerCard.css";
+import PlayerCard from "../PlayerCard/PlayerCard";
+import "./CardContainer.css"
 
 function CardContainer({ data }) {
   return (

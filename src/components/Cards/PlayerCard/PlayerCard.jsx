@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./CardContainer.css";
+import "./PlayerCard.css";
 
 function PlayerCard({ name, img, statistics }) {
   const [show, setShow] = useState(true);

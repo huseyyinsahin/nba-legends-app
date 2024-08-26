@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import image from "../../assets/nba-logo.png";
 import "../Header/Header.css";
-import CardContainer from "../Cards/CardContainer";
+import CardContainer from "../Cards/CardContainer/CardContainer";
 
 function Header({ data }) {
   const [search, setSearch] = useState("");

@@ -35,3 +35,7 @@ NBA Legends, efsanevi basketbol oyuncularını listeleyen ve kullanıcıların b
 ## Kullanım
 
 Uygulama açıldığında, üst kısımda bir arama çubuğu göreceksiniz. Bu çubuğa bir oyuncu ismi girerek listeyi filtreleyebilir ve oyuncu kartlarına tıklayarak detaylı istatistiklerini görüntüleyebilirsiniz.
+
+## Live
+
+[NBA Legends App](https://nba-legends-app-delta.vercel.app/)
